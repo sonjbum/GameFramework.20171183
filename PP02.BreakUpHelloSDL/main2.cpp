@@ -41,7 +41,7 @@ int main(int argc, char*argv[])
 	if (init("Chapter1:Setting up SDL",
 		SDL_WINDOWPOS_CENTERED,
 		SDL_WINDOWPOS_CENTERED,
-		640, 480, SDL_WINDOW_SHOWN)) {
+		1024, 768, SDL_WINDOW_SHOWN)) {
 		g_bRunning = true;
 	}
 	else {
