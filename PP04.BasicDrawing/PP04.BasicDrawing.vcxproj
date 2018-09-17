@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{57DF2E13-7109-4CFF-A5C7-98CBC77E0D07}</ProjectGuid>
-    <RootNamespace>PP03GameClass</RootNamespace>
+    <ProjectGuid>{FAFD97AB-E6B1-4971-B329-4EDECF5E69B0}</ProjectGuid>
+    <RootNamespace>PP04BasicDrawing</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="game.cpp" />
-    <ClCompile Include="main3.cpp" />
+    <ClCompile Include="main4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h" />
