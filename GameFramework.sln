@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2000
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PP01.HelloSDL", "PP01.HelloSDL\PP01.HelloSDL.vcxproj", "{3C9F50BF-C7FF-4215-9B25-3776D4833131}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PP03.GameClass", "PP03.GameClass\PP03.GameClass.vcxproj", "{57DF2E13-7109-4CFF-A5C7-98CBC77E0D07}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PP04.BasicDrawing", "PP04.BasicDrawing\PP04.BasicDrawing.vcxproj", "{FAFD97AB-E6B1-4971-B329-4EDECF5E69B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PP05.AnimatingSprite", "PP05.AnimatingSprite\PP05.AnimatingSprite.vcxproj", "{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{FAFD97AB-E6B1-4971-B329-4EDECF5E69B0}.Release|x64.Build.0 = Release|x64
 		{FAFD97AB-E6B1-4971-B329-4EDECF5E69B0}.Release|x86.ActiveCfg = Release|Win32
 		{FAFD97AB-E6B1-4971-B329-4EDECF5E69B0}.Release|x86.Build.0 = Release|Win32
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Debug|x64.ActiveCfg = Debug|x64
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Debug|x64.Build.0 = Debug|x64
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Debug|x86.Build.0 = Debug|Win32
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Release|x64.ActiveCfg = Release|x64
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Release|x64.Build.0 = Release|x64
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Release|x86.ActiveCfg = Release|Win32
+		{DE7D0CFF-4C3F-411B-866D-8F23D046B1CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
