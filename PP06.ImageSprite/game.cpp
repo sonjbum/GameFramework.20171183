@@ -1,4 +1,5 @@
 #include "game.h"
+#include<SDL_image.h> 
 #include<iostream>
 
 bool g_bRunning = true;
