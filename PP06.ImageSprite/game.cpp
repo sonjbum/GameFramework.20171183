@@ -14,7 +14,8 @@ bool Game::init(const char*title, int xpos, int ypos, int width, int height, boo
 		}
 		m_bRunning = true;
 
-		SDL_Surface* pTempSurface = SDL_LoadBMP("Assets/animate.bmp");
+		//SDL_Surface* pTempSurface = SDL_LoadBMP("Assets/animate.bmp");
+		SDL_Surface* pTempSurface = IMG_Load("Asset/animate-alpha.png");
 		m_pTexture = SDL_CreateTextureFromSurface(m_pRenderer, pTempSurface);
 		SDL_FreeSurface(pTempSurface);
 

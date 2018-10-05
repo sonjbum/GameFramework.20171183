@@ -22,7 +22,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{3C9F50BF-C7FF-4215-9B25-3776D4833131}</ProjectGuid>
     <RootNamespace>PP01HelloSDL</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -74,8 +74,8 @@
     <LibraryPath>..\..\SDL2-2.0.8\lib\x86;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\user\source\repos\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\user\source\repos\SDL2-2.0.8\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\329\source\repos\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\329\source\repos\SDL2-2.0.8\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
